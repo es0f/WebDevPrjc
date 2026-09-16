@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cats</title>
+</head>
+<body>
+<h1>Cats are great</h1>
+<p>Cats are small, agile mammals known for their playful nature, keen senses, and independent personalities. As natural hunters with sharp claws and impressive night vision, they are both highly capable predators and affectionate companions. They communicate through a variety of sounds—like gentle purrs, meows, and hisses—and spend a large portion of their day sleeping or meticulously grooming their soft coats. </p>
+
+<a href="https://www.youtube.com">This is YouTube, find cat videos here</a>
+<img
+    src="cat%20meme.jpg"
+    alt="Cat meme"/>
+
+<table style="width:100%">
+  <tr>
+    <th>Maine Coon</th>
+    <th>Ragdoll</th>
+    <th>British Shorthair</th>
+  </tr>
+  <tr>
+    <td>large</td>
+    <td>calm</td>
+    <td>stocky</td>
+  </tr>
+</table>
+<ol>
+    <li>orange</li>
+    <li>grey</li>
+    <li>white</li>
+</ol>
+</body>
+</html>
